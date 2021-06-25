@@ -4,6 +4,7 @@
 - VSCode 编辑器使用 Prettier 配置需要下载插件 Prettier - Code formatter
 - 如果在自动安装 eslint 步骤失败：npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-airbnb-base eslint-plugin-import eslint-plugin-vue -D
 - VSCode 使用 ESLint 配置文件需要去插件市场下载插件 ESLint 。
+- Personal access tokens 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
 
 ## 目录
 
