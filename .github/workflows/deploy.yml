@@ -22,6 +22,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           GITHUB_TOKEN: ${{ secrets.VUE3_DEPLOY }}
-		  GIT_CONFIG_NAME: GreenMelon
           BRANCH: gh-pages
           FOLDER: dist
